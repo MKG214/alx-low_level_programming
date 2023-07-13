@@ -1,3 +1,2 @@
-
 #!/bin/bahs
 gcc -E $CFILE -o c
